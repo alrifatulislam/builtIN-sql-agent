@@ -1,5 +1,4 @@
 
-```markdown
 # Built-in SQL Agent
 
 A Python demo that uses LangChain and a local Ollama model to answer natural-language questions about a SQLite database. It uses the Chinook sample music-store database and can generate and run SQL queries to answer questions about artists, tracks, invoices, and sales.
